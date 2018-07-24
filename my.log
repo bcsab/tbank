@@ -1,0 +1,666 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 86C5-30AF
+
+ Directory of c:\
+
+2017.12.04.  14:50    <SYMLINKD>     APEHCEGB [\\bekes-adatok\bekes-adatok\TI\Takinfo\Boss\APEHCEGB]
+2018.01.19.  14:51             8ˇ680 appassoc.xml
+2017.12.04.  14:50    <SYMLINKD>     BOSS [\\bekes-adatok\bekes-adatok\TI\Takinfo\Boss\BOSS]
+2018.06.09.  10:32    <DIR>          ODT mounthly new
+2018.02.11.  08:00    <DIR>          PerfLogs
+2018.06.09.  10:32    <DIR>          Program Files
+2018.06.09.  10:34    <DIR>          Program Files (x86)
+2016.06.03.  23:50    <DIR>          SCOM Tasks
+2012.09.10.  23:23           559ˇ528 SetACL.exe
+2017.07.12.  19:02               312 startlayout.xml
+2018.05.02.  15:34    <DIR>          Tabasco
+2017.12.04.  14:50    <SYMLINKD>     TAKINFO [\\bekes-adatok\bekes-adatok\TI\Takinfo\Boss\TAKINFO]
+2016.06.03.  23:53    <DIR>          TSM Agent
+2018.07.24.  11:30    <DIR>          Users
+2017.10.20.  07:32    <DIR>          usr
+2018.06.09.  10:08    <DIR>          Windows
+               3 File(s)        568ˇ520 bytes
+              13 Dir(s)  22ˇ051ˇ532ˇ800 bytes free
+
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : pdvits04w533
+   Primary Dns Suffix  . . . . . . . : win.szh.eir.hu
+   Node Type . . . . . . . . . . . . : Hybrid
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+   DNS Suffix Search List. . . . . . : win.szh.eir.hu
+
+Ethernet adapter Ethernet:
+
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Microsoft Hyper-V h†l¢zati adapter
+   Physical Address. . . . . . . . . : 00-1D-D8-CB-00-A0
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+   IPv4 Address. . . . . . . . . . . : 172.26.76.77(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 172.26.76.254
+   DNS Servers . . . . . . . . . . . : 172.18.128.29
+                                       172.18.128.30
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Tunnel adapter isatap.{8CABFE03-FB22-43E4-B091-1BF49E5C5218}:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Microsoft ISATAP adapter
+   Physical Address. . . . . . . . . : 00-00-00-00-00-00-00-E0
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+
+Image Name                     PID Session Name        Session#    Mem Usage
+========================= ======== ================ =========== ============
+System Idle Process              0 Services                   0          4 K
+System                           4 Services                   0        280 K
+smss.exe                       348 Services                   0      1ˇ116 K
+csrss.exe                      528 Services                   0      4ˇ528 K
+wininit.exe                    592 Services                   0      4ˇ188 K
+csrss.exe                      600 Console                    1      3ˇ768 K
+winlogon.exe                   628 Console                    1      5ˇ896 K
+services.exe                   688 Services                   0     11ˇ372 K
+lsass.exe                      696 Services                   0     52ˇ308 K
+svchost.exe                    760 Services                   0     29ˇ832 K
+svchost.exe                    804 Services                   0     28ˇ404 K
+LogonUI.exe                    884 Console                    1     26ˇ104 K
+dwm.exe                        892 Console                    1     25ˇ272 K
+svchost.exe                    968 Services                   0     46ˇ944 K
+svchost.exe                    992 Services                   0     44ˇ140 K
+svchost.exe                   1008 Services                   0    119ˇ412 K
+svchost.exe                    320 Services                   0    150ˇ156 K
+svchost.exe                    400 Services                   0     22ˇ912 K
+svchost.exe                    484 Services                   0     37ˇ128 K
+svchost.exe                   1140 Services                   0     22ˇ872 K
+spoolsv.exe                   1328 Services                   0    100ˇ440 K
+armsvc.exe                    1352 Services                   0      4ˇ288 K
+OfficeClickToRun.exe          1380 Services                   0     66ˇ204 K
+svchost.exe                   1440 Services                   0     14ˇ896 K
+GslShmSrvc.exe                1468 Services                   0      3ˇ404 K
+macmnsvc.exe                  1512 Services                   0     10ˇ204 K
+masvc.exe                     1596 Services                   0     17ˇ572 K
+VsTskMgr.exe                  1616 Services                   0      2ˇ448 K
+mfemms.exe                    1636 Services                   0      6ˇ680 K
+svchost.exe                   1724 Services                   0      3ˇ656 K
+svchost.exe                   1828 Services                   0      3ˇ628 K
+mfevtps.exe                   1872 Services                   0    109ˇ300 K
+syslog-ng-agent.exe           1896 Services                   0     16ˇ960 K
+mfeann.exe                    1904 Services                   0      2ˇ204 K
+conhost.exe                   1924 Services                   0      3ˇ176 K
+mfefire.exe                   2012 Services                   0      7ˇ940 K
+mfehcs.exe                    2020 Services                   0      6ˇ564 K
+mfevtps.exe                   2148 Services                   0      6ˇ856 K
+AppVClient.exe                2384 Services                   0     46ˇ492 K
+mcshield.exe                  2600 Services                   0    118ˇ700 K
+svchost.exe                   1688 Services                   0  1ˇ663ˇ980 K
+svchost.exe                   2136 Services                   0      9ˇ160 K
+svchost.exe                   2572 Services                   0      5ˇ256 K
+VSSVC.exe                     2716 Services                   0      6ˇ436 K
+macompatsvc.exe               3888 Services                   0     16ˇ236 K
+mfemactl.exe                  3920 Services                   0      8ˇ516 K
+CcmExec.exe                   2164 Services                   0     31ˇ320 K
+WmiPrvSE.exe                  2032 Services                   0     28ˇ220 K
+WmiPrvSE.exe                  2328 Services                   0     12ˇ260 K
+GoogleUpdate.exe              3800 Services                   0      2ˇ876 K
+msdtc.exe                     3936 Services                   0      6ˇ892 K
+WmiPrvSE.exe                  3700 Services                   0      6ˇ776 K
+svchost.exe                   4536 Services                   0      4ˇ148 K
+svchost.exe                   6396 Services                   0      7ˇ472 K
+sppsvc.exe                   29412 Services                   0     16ˇ596 K
+rundll32.exe                 22820 Services                   0     13ˇ928 K
+csrss.exe                    44300 RDP-Tcp#68                49     47ˇ096 K
+winlogon.exe                 29680 RDP-Tcp#68                49      5ˇ428 K
+dwm.exe                       3384 RDP-Tcp#68                49    175ˇ284 K
+rdpclip.exe                  21012 RDP-Tcp#68                49      7ˇ396 K
+taskhostex.exe               17428 RDP-Tcp#68                49     11ˇ924 K
+AppVStreamingUX.exe           5892 RDP-Tcp#68                49     30ˇ732 K
+explorer.exe                  4292 RDP-Tcp#68                49    139ˇ084 K
+EszignoTray.exe               3140 RDP-Tcp#68                49      8ˇ872 K
+OUTLOOK.EXE                  18088 RDP-Tcp#68                49    241ˇ756 K
+iexplore.exe                 29504 RDP-Tcp#68                49     31ˇ264 K
+iexplore.exe                 12076 RDP-Tcp#68                49     30ˇ964 K
+csrss.exe                    36072 RDP-Tcp#94                50     21ˇ960 K
+winlogon.exe                 29844 RDP-Tcp#94                50      5ˇ508 K
+dwm.exe                      36564 RDP-Tcp#94                50     68ˇ060 K
+rdpclip.exe                  28184 RDP-Tcp#94                50      7ˇ652 K
+taskhostex.exe               31756 RDP-Tcp#94                50     21ˇ276 K
+AppVStreamingUX.exe           9632 RDP-Tcp#94                50     32ˇ748 K
+explorer.exe                 11560 RDP-Tcp#94                50    123ˇ120 K
+EszignoTray.exe               7996 RDP-Tcp#94                50      9ˇ692 K
+jp2launcher.exe              18232 RDP-Tcp#94                50    193ˇ808 K
+csrss.exe                    45044 RDP-Tcp#142               51     18ˇ732 K
+winlogon.exe                 35572 RDP-Tcp#142               51      5ˇ456 K
+dwm.exe                      10032 RDP-Tcp#142               51     73ˇ240 K
+rdpclip.exe                   9116 RDP-Tcp#142               51      7ˇ620 K
+taskhostex.exe                6824 RDP-Tcp#142               51     19ˇ556 K
+AppVStreamingUX.exe           4396 RDP-Tcp#142               51     32ˇ464 K
+explorer.exe                 18616 RDP-Tcp#142               51    113ˇ712 K
+EszignoTray.exe              14180 RDP-Tcp#142               51      9ˇ656 K
+csrss.exe                    24120 RDP-Tcp#117               52     23ˇ968 K
+winlogon.exe                 14052 RDP-Tcp#117               52      5ˇ348 K
+dwm.exe                      32820 RDP-Tcp#117               52     77ˇ716 K
+rdpclip.exe                   6376 RDP-Tcp#117               52      6ˇ920 K
+taskhostex.exe               29440 RDP-Tcp#117               52     19ˇ260 K
+AppVStreamingUX.exe           4948 RDP-Tcp#117               52     30ˇ288 K
+explorer.exe                 36888 RDP-Tcp#117               52    103ˇ396 K
+jp2launcher.exe              28832 RDP-Tcp#142               51    181ˇ064 K
+EszignoTray.exe              10484 RDP-Tcp#117               52      8ˇ908 K
+OUTLOOK.EXE                  10180 RDP-Tcp#142               51    203ˇ716 K
+iexplore.exe                  8380 RDP-Tcp#142               51     32ˇ524 K
+iexplore.exe                  7208 RDP-Tcp#142               51     31ˇ868 K
+csrss.exe                    40640 RDP-Tcp#102               53     87ˇ212 K
+winlogon.exe                 30700 RDP-Tcp#102               53      5ˇ364 K
+dwm.exe                      33784 RDP-Tcp#102               53    199ˇ492 K
+jp2launcher.exe              35348 RDP-Tcp#117               52    186ˇ748 K
+rdpclip.exe                  16556 RDP-Tcp#102               53      7ˇ104 K
+taskhostex.exe                5376 RDP-Tcp#102               53     11ˇ816 K
+AppVStreamingUX.exe           9340 RDP-Tcp#102               53     30ˇ496 K
+explorer.exe                  1532 RDP-Tcp#102               53    123ˇ360 K
+EszignoTray.exe              30292 RDP-Tcp#102               53      8ˇ912 K
+jp2launcher.exe              40748 RDP-Tcp#102               53    186ˇ720 K
+jp2launcher.exe               7684 RDP-Tcp#102               53    175ˇ296 K
+csrss.exe                    35196 RDP-Tcp#1                 55     39ˇ452 K
+winlogon.exe                 33492 RDP-Tcp#1                 55      5ˇ352 K
+dwm.exe                      31092 RDP-Tcp#1                 55    122ˇ524 K
+rdpclip.exe                   9572 RDP-Tcp#1                 55      9ˇ744 K
+taskhostex.exe               34068 RDP-Tcp#1                 55     11ˇ388 K
+AppVStreamingUX.exe          42948 RDP-Tcp#1                 55     30ˇ712 K
+explorer.exe                 39104 RDP-Tcp#1                 55    115ˇ272 K
+EszignoTray.exe              14660 RDP-Tcp#1                 55      8ˇ912 K
+jp2launcher.exe              13044 RDP-Tcp#1                 55    185ˇ400 K
+csrss.exe                    14288 RDP-Tcp#2                 56     32ˇ512 K
+winlogon.exe                 13264 RDP-Tcp#2                 56      5ˇ352 K
+dwm.exe                      18176 RDP-Tcp#2                 56    121ˇ848 K
+rdpclip.exe                  13860 RDP-Tcp#2                 56      6ˇ904 K
+AppVStreamingUX.exe          22936 RDP-Tcp#2                 56     30ˇ452 K
+taskhostex.exe                9704 RDP-Tcp#2                 56     19ˇ788 K
+explorer.exe                 33844 RDP-Tcp#2                 56    118ˇ232 K
+OUTLOOK.EXE                   6116 RDP-Tcp#1                 55    187ˇ028 K
+EszignoTray.exe              38764 RDP-Tcp#2                 56      8ˇ876 K
+iexplore.exe                  4632 RDP-Tcp#1                 55     30ˇ900 K
+iexplore.exe                 36016 RDP-Tcp#1                 55     31ˇ000 K
+jp2launcher.exe              41376 RDP-Tcp#2                 56    185ˇ776 K
+csrss.exe                    33804 RDP-Tcp#37                57     26ˇ352 K
+winlogon.exe                 39456 RDP-Tcp#37                57      5ˇ464 K
+dwm.exe                      34300 RDP-Tcp#37                57    102ˇ468 K
+rdpclip.exe                  43340 RDP-Tcp#37                57      6ˇ968 K
+taskhostex.exe               12416 RDP-Tcp#37                57     18ˇ648 K
+AppVStreamingUX.exe          30140 RDP-Tcp#37                57     30ˇ452 K
+explorer.exe                  8112 RDP-Tcp#37                57    104ˇ540 K
+OUTLOOK.EXE                  15272 RDP-Tcp#102               53    210ˇ700 K
+iexplore.exe                 29104 RDP-Tcp#102               53     31ˇ384 K
+iexplore.exe                 37952 RDP-Tcp#102               53     32ˇ408 K
+csrss.exe                    25080 RDP-Tcp#139               58     46ˇ328 K
+winlogon.exe                 13764 RDP-Tcp#139               58      5ˇ600 K
+dwm.exe                      37072 RDP-Tcp#139               58    113ˇ652 K
+rdpclip.exe                  30328 RDP-Tcp#139               58      7ˇ356 K
+taskhostex.exe               15072 RDP-Tcp#139               58     11ˇ616 K
+AppVStreamingUX.exe          17396 RDP-Tcp#139               58     30ˇ592 K
+explorer.exe                 17400 RDP-Tcp#139               58    146ˇ680 K
+OUTLOOK.EXE                  17388 RDP-Tcp#2                 56    207ˇ168 K
+iexplore.exe                 13656 RDP-Tcp#2                 56     31ˇ412 K
+iexplore.exe                 18084 RDP-Tcp#2                 56     31ˇ048 K
+EszignoTray.exe              20328 RDP-Tcp#139               58      8ˇ948 K
+OUTLOOK.EXE                  39888 RDP-Tcp#139               58    217ˇ068 K
+csrss.exe                     4300 RDP-Tcp#6                 59     25ˇ864 K
+winlogon.exe                 16680 RDP-Tcp#6                 59      5ˇ584 K
+dwm.exe                      30004 RDP-Tcp#6                 59     79ˇ512 K
+iexplore.exe                 43048 RDP-Tcp#139               58     31ˇ356 K
+iexplore.exe                 40016 RDP-Tcp#139               58     30ˇ936 K
+jp2launcher.exe              38604 RDP-Tcp#139               58    172ˇ536 K
+rdpclip.exe                   6604 RDP-Tcp#6                 59      7ˇ104 K
+taskhostex.exe               19620 RDP-Tcp#6                 59     18ˇ780 K
+AppVStreamingUX.exe          29972 RDP-Tcp#6                 59     30ˇ604 K
+explorer.exe                 32972 RDP-Tcp#6                 59    118ˇ708 K
+EszignoTray.exe               6788 RDP-Tcp#6                 59      8ˇ916 K
+iexplore.exe                  8444 RDP-Tcp#139               58     41ˇ556 K
+iexplore.exe                  6544 RDP-Tcp#139               58     54ˇ456 K
+csrss.exe                    19944 RDP-Tcp#29                60     29ˇ652 K
+winlogon.exe                 13196 RDP-Tcp#29                60      5ˇ432 K
+dwm.exe                      41668 RDP-Tcp#29                60     95ˇ360 K
+jp2launcher.exe               1788 RDP-Tcp#6                 59    182ˇ052 K
+OUTLOOK.EXE                  38036 RDP-Tcp#6                 59    195ˇ136 K
+iexplore.exe                 22148 RDP-Tcp#6                 59     32ˇ752 K
+iexplore.exe                 14636 RDP-Tcp#6                 59     32ˇ320 K
+csrss.exe                    44624 RDP-Tcp#7                 61     64ˇ164 K
+winlogon.exe                 20028 RDP-Tcp#7                 61      5ˇ332 K
+dwm.exe                      13372 RDP-Tcp#7                 61    230ˇ012 K
+rdpclip.exe                  23560 RDP-Tcp#7                 61      7ˇ196 K
+taskhostex.exe               36776 RDP-Tcp#7                 61     11ˇ808 K
+AppVStreamingUX.exe          21388 RDP-Tcp#7                 61     30ˇ352 K
+explorer.exe                 16060 RDP-Tcp#7                 61    125ˇ232 K
+csrss.exe                    39692 RDP-Tcp#144               62     41ˇ772 K
+winlogon.exe                 44252 RDP-Tcp#144               62      5ˇ384 K
+dwm.exe                      10680 RDP-Tcp#144               62    137ˇ804 K
+EszignoTray.exe               6184 RDP-Tcp#7                 61      8ˇ948 K
+OUTLOOK.EXE                  27428 RDP-Tcp#37                57    204ˇ580 K
+jp2launcher.exe              34220 RDP-Tcp#7                 61    205ˇ348 K
+OUTLOOK.EXE                  34788 RDP-Tcp#94                50    226ˇ960 K
+iexplore.exe                  6392 RDP-Tcp#37                57     30ˇ116 K
+iexplore.exe                 26136 RDP-Tcp#37                57     30ˇ688 K
+iexplore.exe                 35520 RDP-Tcp#94                50     32ˇ552 K
+iexplore.exe                 38248 RDP-Tcp#94                50     31ˇ984 K
+csrss.exe                    37212 RDP-Tcp#126               63     42ˇ324 K
+winlogon.exe                 41100 RDP-Tcp#126               63      5ˇ348 K
+dwm.exe                      12240 RDP-Tcp#126               63    130ˇ884 K
+OUTLOOK.EXE                  11920 RDP-Tcp#7                 61    227ˇ768 K
+rdpclip.exe                  36772 RDP-Tcp#126               63      7ˇ024 K
+taskhostex.exe               43472 RDP-Tcp#126               63     12ˇ256 K
+AppVStreamingUX.exe          23360 RDP-Tcp#126               63     30ˇ420 K
+rdpclip.exe                   6632 RDP-Tcp#29                60      7ˇ680 K
+AppVStreamingUX.exe          41072 RDP-Tcp#29                60     30ˇ168 K
+taskhostex.exe               38688 RDP-Tcp#29                60     18ˇ008 K
+explorer.exe                 26960 RDP-Tcp#126               63    110ˇ008 K
+explorer.exe                 11988 RDP-Tcp#29                60    116ˇ340 K
+csrss.exe                    27300 RDP-Tcp#13                64     43ˇ284 K
+winlogon.exe                 12936 RDP-Tcp#13                64      5ˇ364 K
+iexplore.exe                 36972 RDP-Tcp#7                 61     31ˇ164 K
+dwm.exe                      14424 RDP-Tcp#13                64    144ˇ172 K
+iexplore.exe                   512 RDP-Tcp#7                 61     30ˇ680 K
+rdpclip.exe                  20836 RDP-Tcp#13                64      7ˇ060 K
+taskhostex.exe                8284 RDP-Tcp#13                64     11ˇ704 K
+AppVStreamingUX.exe           5860 RDP-Tcp#13                64     30ˇ460 K
+explorer.exe                  6916 RDP-Tcp#13                64    117ˇ232 K
+jp2launcher.exe              15684 RDP-Tcp#126               63    169ˇ616 K
+rdpclip.exe                  22688 RDP-Tcp#144               62      7ˇ636 K
+taskhostex.exe               26504 RDP-Tcp#144               62     13ˇ580 K
+AppVStreamingUX.exe          28680 RDP-Tcp#144               62     30ˇ388 K
+explorer.exe                 19552 RDP-Tcp#144               62    142ˇ976 K
+jp2launcher.exe              19220 RDP-Tcp#29                60    181ˇ756 K
+jp2launcher.exe               7228 RDP-Tcp#13                64    177ˇ820 K
+csrss.exe                    21000 RDP-Tcp#156               66     36ˇ236 K
+winlogon.exe                  4740 RDP-Tcp#156               66      5ˇ744 K
+dwm.exe                      20640 RDP-Tcp#156               66    172ˇ712 K
+rdpclip.exe                  30564 RDP-Tcp#156               66      7ˇ832 K
+AppVStreamingUX.exe           6372 RDP-Tcp#156               66     32ˇ252 K
+taskhostex.exe               38828 RDP-Tcp#156               66     13ˇ240 K
+explorer.exe                 10888 RDP-Tcp#156               66    116ˇ008 K
+iexplore.exe                 19508 RDP-Tcp#7                 61     40ˇ376 K
+iexplore.exe                  4968 RDP-Tcp#7                 61    116ˇ796 K
+EszignoTray.exe               4564 RDP-Tcp#156               66      9ˇ824 K
+OUTLOOK.EXE                  11548 RDP-Tcp#156               66    230ˇ888 K
+iexplore.exe                 40168 RDP-Tcp#1                 55     45ˇ116 K
+iexplore.exe                  4964 RDP-Tcp#1                 55     88ˇ984 K
+iexplore.exe                 30988 RDP-Tcp#156               66     32ˇ220 K
+iexplore.exe                 40880 RDP-Tcp#156               66     33ˇ368 K
+csrss.exe                    39100 RDP-Tcp#40                70     33ˇ476 K
+winlogon.exe                 30168 RDP-Tcp#40                70      5ˇ352 K
+dwm.exe                      27840 RDP-Tcp#40                70    106ˇ500 K
+rdpclip.exe                  14160 RDP-Tcp#40                70      7ˇ016 K
+taskhostex.exe               38536 RDP-Tcp#40                70     20ˇ888 K
+AppVStreamingUX.exe          32140 RDP-Tcp#40                70     30ˇ664 K
+explorer.exe                 23484 RDP-Tcp#40                70    112ˇ572 K
+jp2launcher.exe              35216 RDP-Tcp#144               62    184ˇ480 K
+EszignoTray.exe              37208 RDP-Tcp#40                70      8ˇ956 K
+OUTLOOK.EXE                  39860 RDP-Tcp#40                70    213ˇ020 K
+iexplore.exe                 34108 RDP-Tcp#40                70     32ˇ140 K
+iexplore.exe                 13072 RDP-Tcp#40                70     30ˇ860 K
+WINWORD.EXE                  11976 RDP-Tcp#1                 55    218ˇ936 K
+csrss.exe                    31200 RDP-Tcp#17                71     35ˇ240 K
+winlogon.exe                 43320 RDP-Tcp#17                71      5ˇ360 K
+dwm.exe                      35016 RDP-Tcp#17                71     97ˇ068 K
+rdpclip.exe                  29348 RDP-Tcp#17                71      7ˇ088 K
+taskhostex.exe               14264 RDP-Tcp#17                71     13ˇ964 K
+AppVStreamingUX.exe          39192 RDP-Tcp#17                71     30ˇ340 K
+explorer.exe                  6644 RDP-Tcp#17                71    115ˇ156 K
+EszignoTray.exe              26724 RDP-Tcp#17                71      8ˇ900 K
+EXCEL.EXE                    22140 RDP-Tcp#126               63    151ˇ800 K
+OUTLOOK.EXE                  20368 RDP-Tcp#17                71    285ˇ756 K
+iexplore.exe                 12680 RDP-Tcp#17                71     30ˇ672 K
+iexplore.exe                  7448 RDP-Tcp#17                71     31ˇ076 K
+csrss.exe                    19000                           72     62ˇ784 K
+winlogon.exe                 24024                           72      5ˇ612 K
+dwm.exe                      20632                           72    264ˇ180 K
+rdpclip.exe                   4776                           72      6ˇ860 K
+AppVStreamingUX.exe          27268                           72     30ˇ152 K
+taskhostex.exe                7604                           72     11ˇ100 K
+explorer.exe                 25440                           72     99ˇ640 K
+OUTLOOK.EXE                  20560                           72    321ˇ740 K
+EszignoTray.exe              16216                           72     13ˇ896 K
+jp2launcher.exe              25044 RDP-Tcp#40                70    176ˇ752 K
+iexplore.exe                  8168 RDP-Tcp#17                71     30ˇ152 K
+iexplore.exe                 33428 RDP-Tcp#17                71    108ˇ156 K
+iexplore.exe                 27812                           72     31ˇ200 K
+iexplore.exe                 23832                           72     30ˇ856 K
+jp2launcher.exe              29392 RDP-Tcp#17                71    188ˇ864 K
+csrss.exe                    29804 RDP-Tcp#3                 73     49ˇ384 K
+winlogon.exe                 43988 RDP-Tcp#3                 73      5ˇ348 K
+dwm.exe                      17960 RDP-Tcp#3                 73    105ˇ188 K
+rdpclip.exe                  28164 RDP-Tcp#3                 73      7ˇ776 K
+AppVStreamingUX.exe          22180 RDP-Tcp#3                 73     30ˇ280 K
+taskhostex.exe               26988 RDP-Tcp#3                 73     18ˇ192 K
+explorer.exe                 33180 RDP-Tcp#3                 73    133ˇ412 K
+OUTLOOK.EXE                  44228 RDP-Tcp#3                 73    232ˇ620 K
+EszignoTray.exe              39956 RDP-Tcp#3                 73      8ˇ920 K
+jp2launcher.exe              42072 RDP-Tcp#40                70    133ˇ268 K
+iexplore.exe                 43124 RDP-Tcp#3                 73     30ˇ976 K
+iexplore.exe                 11064 RDP-Tcp#3                 73     30ˇ992 K
+EXCEL.EXE                    39748 RDP-Tcp#40                70    163ˇ792 K
+csrss.exe                     9172 RDP-Tcp#128               74     56ˇ080 K
+winlogon.exe                 19940 RDP-Tcp#128               74      5ˇ600 K
+dwm.exe                       8672 RDP-Tcp#128               74    195ˇ476 K
+rdpclip.exe                  31064 RDP-Tcp#128               74      7ˇ528 K
+taskhostex.exe               36140 RDP-Tcp#128               74     11ˇ568 K
+AppVStreamingUX.exe          11388 RDP-Tcp#128               74     30ˇ292 K
+explorer.exe                 28148 RDP-Tcp#128               74    124ˇ888 K
+iexplore.exe                 28068 RDP-Tcp#128               74     33ˇ996 K
+iexplore.exe                 27892 RDP-Tcp#128               74    114ˇ636 K
+jp2launcher.exe              36496 RDP-Tcp#126               63    173ˇ452 K
+csrss.exe                     4568 RDP-Tcp#33                75     31ˇ212 K
+winlogon.exe                 34988 RDP-Tcp#33                75      5ˇ420 K
+dwm.exe                      11772 RDP-Tcp#33                75    103ˇ496 K
+rdpclip.exe                  40484 RDP-Tcp#33                75      7ˇ300 K
+AppVStreamingUX.exe          28936 RDP-Tcp#33                75     30ˇ140 K
+taskhostex.exe               16504 RDP-Tcp#33                75     11ˇ472 K
+explorer.exe                 29284 RDP-Tcp#33                75    103ˇ020 K
+EszignoTray.exe              18420 RDP-Tcp#33                75     13ˇ836 K
+iexplore.exe                 40268 RDP-Tcp#102               53     45ˇ052 K
+iexplore.exe                  8104 RDP-Tcp#102               53     98ˇ288 K
+iexplore.exe                 44596 RDP-Tcp#102               53    235ˇ452 K
+OUTLOOK.EXE                  39492 RDP-Tcp#33                75    218ˇ604 K
+iexplore.exe                 29812 RDP-Tcp#33                75     30ˇ900 K
+iexplore.exe                 10788 RDP-Tcp#33                75     30ˇ928 K
+BastyaMAX.exe                14744 RDP-Tcp#102               53     38ˇ876 K
+csrss.exe                    12664 RDP-Tcp#30                78     36ˇ456 K
+winlogon.exe                 24628 RDP-Tcp#30                78      5ˇ648 K
+dwm.exe                      28644 RDP-Tcp#30                78    158ˇ252 K
+rdpclip.exe                    852 RDP-Tcp#30                78      7ˇ348 K
+taskhostex.exe               25724 RDP-Tcp#30                78     20ˇ068 K
+AppVStreamingUX.exe          13216 RDP-Tcp#30                78     30ˇ476 K
+explorer.exe                 31340 RDP-Tcp#30                78    138ˇ400 K
+OUTLOOK.EXE                  39524 RDP-Tcp#30                78    291ˇ412 K
+iexplore.exe                 22356 RDP-Tcp#30                78     30ˇ932 K
+iexplore.exe                 31604 RDP-Tcp#30                78     30ˇ816 K
+jp2launcher.exe              37336 RDP-Tcp#3                 73    183ˇ084 K
+csrss.exe                    23664 RDP-Tcp#38                79     86ˇ416 K
+winlogon.exe                 24284 RDP-Tcp#38                79      5ˇ372 K
+dwm.exe                      27472 RDP-Tcp#38                79    309ˇ000 K
+OUTLOOK.EXE                  18200 RDP-Tcp#126               63    232ˇ944 K
+rdpclip.exe                  10988 RDP-Tcp#38                79      7ˇ084 K
+AppVStreamingUX.exe          31192 RDP-Tcp#38                79     30ˇ276 K
+iexplore.exe                 16900 RDP-Tcp#126               63     30ˇ544 K
+taskhostex.exe               35984 RDP-Tcp#38                79     11ˇ188 K
+explorer.exe                 33716 RDP-Tcp#38                79    134ˇ860 K
+iexplore.exe                 35296 RDP-Tcp#126               63     30ˇ924 K
+OUTLOOK.EXE                  31016 RDP-Tcp#38                79    304ˇ460 K
+jp2launcher.exe               9972 RDP-Tcp#128               74    152ˇ832 K
+EszignoTray.exe              35888 RDP-Tcp#38                79      8ˇ916 K
+iexplore.exe                 14384 RDP-Tcp#38                79     31ˇ268 K
+iexplore.exe                 36912 RDP-Tcp#38                79     32ˇ496 K
+OUTLOOK.EXE                  32100 RDP-Tcp#128               74    191ˇ464 K
+iexplore.exe                 13560 RDP-Tcp#128               74     30ˇ420 K
+iexplore.exe                 39668 RDP-Tcp#128               74     30ˇ636 K
+iexplore.exe                 28800 RDP-Tcp#128               74    111ˇ360 K
+csrss.exe                    32444 RDP-Tcp#151               81     34ˇ500 K
+winlogon.exe                 25068 RDP-Tcp#151               81      5ˇ512 K
+dwm.exe                      28968 RDP-Tcp#151               81    106ˇ352 K
+rdpclip.exe                  33000 RDP-Tcp#151               81      7ˇ740 K
+taskhostex.exe               31932 RDP-Tcp#151               81     15ˇ120 K
+AppVStreamingUX.exe          43100 RDP-Tcp#151               81     32ˇ032 K
+explorer.exe                 36976 RDP-Tcp#151               81    139ˇ700 K
+iexplore.exe                 11468 RDP-Tcp#151               81     45ˇ676 K
+iexplore.exe                 35584 RDP-Tcp#151               81     50ˇ456 K
+iexplore.exe                  8472 RDP-Tcp#151               81     70ˇ308 K
+csrss.exe                    17464 RDP-Tcp#46                80     24ˇ652 K
+winlogon.exe                 19720 RDP-Tcp#46                80      5ˇ616 K
+dwm.exe                      15732 RDP-Tcp#46                80     97ˇ912 K
+rdpclip.exe                  20856 RDP-Tcp#46                80      6ˇ960 K
+taskhostex.exe               15680 RDP-Tcp#46                80     20ˇ324 K
+AppVStreamingUX.exe          28768 RDP-Tcp#46                80     30ˇ172 K
+explorer.exe                 29560 RDP-Tcp#46                80    106ˇ852 K
+jp2launcher.exe              10608 RDP-Tcp#151               81    177ˇ808 K
+iexplore.exe                 42196 RDP-Tcp#128               74     94ˇ652 K
+iexplore.exe                 28328 RDP-Tcp#33                75     45ˇ288 K
+iexplore.exe                 29028 RDP-Tcp#33                75     55ˇ276 K
+OUTLOOK.EXE                  39120 RDP-Tcp#46                80    240ˇ224 K
+iexplore.exe                  7456 RDP-Tcp#46                80     30ˇ660 K
+iexplore.exe                 23144 RDP-Tcp#46                80     30ˇ900 K
+jp2launcher.exe              37272 RDP-Tcp#46                80    159ˇ748 K
+iexplore.exe                 13580 RDP-Tcp#1                 55     69ˇ988 K
+iexplore.exe                 13740 RDP-Tcp#38                79     39ˇ748 K
+iexplore.exe                 44496 RDP-Tcp#38                79    117ˇ000 K
+OUTLOOK.EXE                  29340 RDP-Tcp#151               81    225ˇ448 K
+iexplore.exe                 39856 RDP-Tcp#151               81     31ˇ852 K
+iexplore.exe                 18916 RDP-Tcp#151               81     33ˇ192 K
+iexplore.exe                 39188 RDP-Tcp#126               63     38ˇ496 K
+iexplore.exe                  6888 RDP-Tcp#126               63    107ˇ224 K
+iexplore.exe                 30508 RDP-Tcp#144               62     47ˇ152 K
+iexplore.exe                  5184 RDP-Tcp#144               62    105ˇ128 K
+csrss.exe                    19364 RDP-Tcp#60                84     37ˇ728 K
+winlogon.exe                 27800 RDP-Tcp#60                84      5ˇ508 K
+dwm.exe                      15048 RDP-Tcp#60                84    119ˇ560 K
+taskhostex.exe               32204 RDP-Tcp#60                84     12ˇ696 K
+rdpclip.exe                   3236 RDP-Tcp#60                84      8ˇ036 K
+AppVStreamingUX.exe          42052 RDP-Tcp#60                84     32ˇ108 K
+RuntimeBroker.exe            13868 RDP-Tcp#128               74      6ˇ620 K
+explorer.exe                 14360 RDP-Tcp#60                84    123ˇ448 K
+OUTLOOK.EXE                  34000 RDP-Tcp#60                84    269ˇ428 K
+EszignoTray.exe               8896 RDP-Tcp#60                84      9ˇ980 K
+iexplore.exe                 44196 RDP-Tcp#60                84     32ˇ240 K
+iexplore.exe                 11292 RDP-Tcp#60                84     31ˇ944 K
+iexplore.exe                  4656 RDP-Tcp#156               66     41ˇ000 K
+iexplore.exe                 19256 RDP-Tcp#156               66     64ˇ424 K
+jp2launcher.exe               6704 RDP-Tcp#60                84    173ˇ912 K
+WINWORD.EXE                   9664                           72    120ˇ512 K
+WINWORD.EXE                  44380 RDP-Tcp#156               66    212ˇ720 K
+iexplore.exe                 42488 RDP-Tcp#144               62     65ˇ540 K
+iexplore.exe                 17748                           72     35ˇ168 K
+iexplore.exe                 33556                           72     92ˇ556 K
+iexplore.exe                 13076 RDP-Tcp#60                84     47ˇ308 K
+iexplore.exe                 42424 RDP-Tcp#60                84     81ˇ732 K
+WINWORD.EXE                  25200 RDP-Tcp#2                 56    176ˇ528 K
+iexplore.exe                  6100 RDP-Tcp#102               53     69ˇ504 K
+OUTLOOK.EXE                  23520 RDP-Tcp#13                64    167ˇ792 K
+iexplore.exe                  7800 RDP-Tcp#13                64     30ˇ768 K
+iexplore.exe                  8392 RDP-Tcp#13                64     32ˇ352 K
+iexplore.exe                 14024 RDP-Tcp#13                64     41ˇ692 K
+iexplore.exe                  6044 RDP-Tcp#13                64     74ˇ680 K
+jp2launcher.exe              38772 RDP-Tcp#38                79    174ˇ392 K
+LogonUI.exe                  20536                           72     19ˇ544 K
+iexplore.exe                 31100 RDP-Tcp#102               53     59ˇ492 K
+AcroRd32.exe                  5156 RDP-Tcp#3                 73     15ˇ348 K
+AcroRd32.exe                 44356 RDP-Tcp#3                 73     60ˇ592 K
+OUTLOOK.EXE                  36476 RDP-Tcp#117               52    192ˇ848 K
+iexplore.exe                 34976 RDP-Tcp#117               52     31ˇ208 K
+iexplore.exe                 15020 RDP-Tcp#117               52     32ˇ260 K
+OUTLOOK.EXE                  22960 RDP-Tcp#29                60    211ˇ104 K
+iexplore.exe                 37028 RDP-Tcp#29                60     30ˇ364 K
+iexplore.exe                  6264 RDP-Tcp#29                60     31ˇ092 K
+splwow64.exe                  5792 RDP-Tcp#3                 73     12ˇ688 K
+jp2launcher.exe              19624 RDP-Tcp#1                 55    161ˇ432 K
+splwow64.exe                 11748 RDP-Tcp#151               81     14ˇ556 K
+AcroRd32.exe                 41464 RDP-Tcp#139               58     16ˇ664 K
+AcroRd32.exe                 44944 RDP-Tcp#139               58     90ˇ152 K
+WINWORD.EXE                  39144 RDP-Tcp#38                79    265ˇ228 K
+AcroRd32.exe                 21452 RDP-Tcp#102               53     16ˇ660 K
+AcroRd32.exe                 22832 RDP-Tcp#102               53    134ˇ432 K
+splwow64.exe                  3296 RDP-Tcp#102               53     15ˇ988 K
+EXCEL.EXE                    25108 RDP-Tcp#102               53    111ˇ412 K
+EXCEL.EXE                    30104 RDP-Tcp#156               66     93ˇ768 K
+iexplore.exe                 42336 RDP-Tcp#60                84     99ˇ748 K
+EXCEL.EXE                    36232 RDP-Tcp#13                64    134ˇ860 K
+csrss.exe                    13128 RDP-Tcp#118               86     77ˇ596 K
+winlogon.exe                 27372 RDP-Tcp#118               86      5ˇ340 K
+dwm.exe                      34168 RDP-Tcp#118               86    276ˇ492 K
+rdpclip.exe                  32816 RDP-Tcp#118               86      6ˇ832 K
+taskhostex.exe               13944 RDP-Tcp#118               86     13ˇ640 K
+explorer.exe                 14928 RDP-Tcp#118               86    135ˇ548 K
+AppVStreamingUX.exe          38708 RDP-Tcp#118               86     29ˇ500 K
+AppVShNotify.exe             36544 RDP-Tcp#118               86      4ˇ832 K
+EszignoTray.exe               7452 RDP-Tcp#118               86      8ˇ836 K
+shstat.exe                   27624 RDP-Tcp#118               86      1ˇ032 K
+EXCEL.EXE                    20444 RDP-Tcp#128               74    148ˇ500 K
+EXCEL.EXE                    25804 RDP-Tcp#2                 56    200ˇ096 K
+iexplore.exe                  9568 RDP-Tcp#102               53     33ˇ800 K
+AcroRd32.exe                 12864 RDP-Tcp#102               53     15ˇ008 K
+AcroRd32.exe                 36416 RDP-Tcp#102               53     51ˇ928 K
+iexplore.exe                  6680 RDP-Tcp#68                49     37ˇ996 K
+iexplore.exe                 43616 RDP-Tcp#68                49     44ˇ980 K
+AcroRd32.exe                 24028 RDP-Tcp#13                64     14ˇ320 K
+AcroRd32.exe                 12896 RDP-Tcp#13                64     37ˇ696 K
+splwow64.exe                 27808 RDP-Tcp#13                64      9ˇ140 K
+OUTLOOK.EXE                  30744 RDP-Tcp#118               86    207ˇ824 K
+iexplore.exe                  7372 RDP-Tcp#118               86     30ˇ456 K
+iexplore.exe                 43164 RDP-Tcp#118               86     30ˇ724 K
+iexplore.exe                 25272 RDP-Tcp#118               86     31ˇ588 K
+iexplore.exe                 44844 RDP-Tcp#118               86    134ˇ844 K
+iexplore.exe                 12104 RDP-Tcp#29                60     37ˇ992 K
+iexplore.exe                  9824 RDP-Tcp#29                60     48ˇ720 K
+POWERPNT.EXE                 29312 RDP-Tcp#118               86    317ˇ728 K
+EXCEL.EXE                    22052 RDP-Tcp#37                57     76ˇ928 K
+iexplore.exe                 11880 RDP-Tcp#13                64     57ˇ000 K
+WINWORD.EXE                  24036 RDP-Tcp#17                71    125ˇ188 K
+EXCEL.EXE                    13292 RDP-Tcp#118               86    115ˇ252 K
+OUTLOOK.EXE                  43656 RDP-Tcp#144               62    157ˇ936 K
+iexplore.exe                 24836 RDP-Tcp#144               62     30ˇ612 K
+iexplore.exe                  7616 RDP-Tcp#144               62     31ˇ172 K
+csrss.exe                    37904 RDP-Tcp#35                87     38ˇ208 K
+winlogon.exe                 20364 RDP-Tcp#35                87      5ˇ436 K
+dwm.exe                      25932 RDP-Tcp#35                87     71ˇ120 K
+iexplore.exe                 10496 RDP-Tcp#144               62     41ˇ588 K
+rdpclip.exe                   5104 RDP-Tcp#35                87      6ˇ652 K
+AppVStreamingUX.exe          43172 RDP-Tcp#35                87     29ˇ548 K
+taskhostex.exe               22408 RDP-Tcp#35                87      9ˇ548 K
+explorer.exe                 23124 RDP-Tcp#35                87    134ˇ976 K
+TOTALCMD.EXE                 28072 RDP-Tcp#35                87     25ˇ024 K
+jp2launcher.exe              15892 RDP-Tcp#68                49    164ˇ588 K
+taskeng.exe                   7288 Services                   0      4ˇ872 K
+iexplore.exe                  6592 RDP-Tcp#151               81     84ˇ200 K
+jp2launcher.exe              34760 RDP-Tcp#33                75    184ˇ472 K
+LogonUI.exe                   9548 RDP-Tcp#46                80     19ˇ676 K
+svchost.exe                  43964 Services                   0     20ˇ064 K
+EXCEL.EXE                    30856 RDP-Tcp#37                57     96ˇ124 K
+EXCEL.EXE                    43092 RDP-Tcp#68                49    142ˇ252 K
+csrss.exe                    20088 RDP-Tcp#27                89     19ˇ572 K
+winlogon.exe                 29444 RDP-Tcp#27                89      5ˇ368 K
+dwm.exe                       5448 RDP-Tcp#27                89     70ˇ716 K
+jp2launcher.exe              40464 RDP-Tcp#37                57    143ˇ800 K
+rdpclip.exe                  43412 RDP-Tcp#27                89      6ˇ472 K
+AppVStreamingUX.exe          39200 RDP-Tcp#27                89     29ˇ356 K
+taskhostex.exe               26628 RDP-Tcp#27                89     15ˇ784 K
+explorer.exe                 14568 RDP-Tcp#27                89     94ˇ656 K
+TOTALCMD.EXE                 10252 RDP-Tcp#35                87     20ˇ864 K
+svchost.exe                   9448 Services                   0      9ˇ484 K
+chrome.exe                   12868 RDP-Tcp#35                87     94ˇ252 K
+chrome.exe                   26756 RDP-Tcp#35                87      5ˇ488 K
+chrome.exe                   20752 RDP-Tcp#35                87      6ˇ216 K
+WINWORD.EXE                  38224 RDP-Tcp#7                 61    144ˇ396 K
+EszignoTray.exe              15920 RDP-Tcp#27                89      8ˇ504 K
+chrome.exe                    8688 RDP-Tcp#35                87     16ˇ112 K
+chrome.exe                   18772 RDP-Tcp#35                87     54ˇ400 K
+OUTLOOK.EXE                  15984 RDP-Tcp#27                89    210ˇ916 K
+iexplore.exe                  7376 RDP-Tcp#27                89     31ˇ088 K
+iexplore.exe                 22776 RDP-Tcp#27                89     30ˇ876 K
+WINWORD.EXE                  31572 RDP-Tcp#13                64    158ˇ332 K
+PrintIsolationHost.exe       26672 Services                   0      7ˇ848 K
+PrintIsolationHost.exe       17116 Services                   0      6ˇ132 K
+splwow64.exe                 14776 RDP-Tcp#37                57      4ˇ344 K
+cmd.exe                      37140 RDP-Tcp#35                87      3ˇ760 K
+conhost.exe                  15396 RDP-Tcp#35                87      6ˇ492 K
+tasklist.exe                 22744 RDP-Tcp#35                87      6ˇ048 K
+A rendszer t†rolja az £j kapcsolatokat.
+
+
+µllapot      Helyi     T†voli                    H†l¢zat
+
+-------------------------------------------------------------------------------
+OK           K:        \\bekes-adatok\bekes-adatok 
+                                                Microsoft Windows Network
+A parancs sikeresen vÇgrehajtva.
+
+Ezek a Windows szolg†ltat†sok indultak el:
+
+   Adobe Acrobat Update Service
+   Alap sz˚rãprogram
+   Alkalmaz†s-elãkÇsz°tã
+   Alkalmaz†sminãs°tã
+   Alkalmaz†svezÇrlÇs
+   AppX Deployment Service (AppXSVC)
+   Biztons†gi fi¢kkezelã
+   CNG-kulcs elkÅlîn°tÇse
+   COM+ esemÇnyrendszer
+   Csoporth†zirend ÅgyfÇl
+   DCOM-kiszolg†l¢ folyamatind°t¢ja
+   DHCP-ÅgyfÇl
+   Diagnostics Tracking Service
+   DiagnosztikavezÇrlã szolg†ltat†s
+   DNS-ÅgyfÇl
+   Elosztott hivatkoz†skîvetã ÅgyfÇl
+   Elosztott tranzakci¢k koordin†tora
+   ElãtîltÇs
+   Energiagazd†lkod†s
+   FeladatÅtemezã
+   Felhaszn†l¢i hozz†fÇrÇs napl¢z†sa szolg†ltat†s
+   Felhaszn†l¢i profil szolg†ltat†s
+   FelÅlet hardverfigyelÇse
+   GSL Share Memory
+   Helyi munkamenet-kezelã
+   Hiteles°tãadat-kezelã
+   Hyper-V adatcsere-szolg†ltat†s
+   Hyper-V idãszinkroniz†l†si szolg†ltat†s
+   Hyper-V kîtet†rnyÇkm†solat-kÇrelmezã
+   Hyper-V sz°vverÇsi szolg†ltat†s
+   Hyper-V t†voli asztali virtualiz†l†si szolg†ltat†s
+   Hyper-V vendÇgle†ll°t†si szolg†ltat†s
+   H†l¢zati helyfigyelÇs
+   H†l¢zati kapcsolatszervezã
+   H†l¢zatit†rol¢-adapter szolg†ltat†s
+   H†l¢zatlista szolg†ltat†s
+   H†ttÇrben fut¢ intelligens †tviteli szolg†ltat†s
+   H†ttÇrfeladatok infrastrukt£ra-szolg†ltat†sa
+   Idãszervezã
+   IKE Çs Auth-IP kulcskezelã modulok
+   Intelligens k†rty†s eszkîzîket nyilv†ntart¢ szolg†ltat†s
+   IP-seg°tã
+   IPsec-h†zirendÅgynîk
+   Kiszolg†l¢
+   Kriptogr†fiai szolg†ltat†sok
+   Kîtet †rnyÇkm†solata
+   McAfee Agent Backwards Compatibility Service
+   McAfee Agent Common Services
+   McAfee Agent Service
+   McAfee McShield
+   McAfee Service Controller
+   McAfee Task Manager
+   McAfee Validation Trust Protection Service
+   Microsoft App-V Client
+   Microsoft Office Kattint†sra szolg†ltat†s
+   Microsoft-fi¢k bejelentkezÇsi segÇdje
+   Munka†llom†s
+   Net Driver HPZ12
+   Netlogon
+   Nyomtat†si v†r¢lista
+   Plug and Play
+   Pml Driver HPZ12
+   RendszeresemÇny-jelzã szolg†ltat†s
+   RendszeresemÇny-szervezã
+   RendszerfelÅgyeleti webszolg†ltat†sok
+   RPC vÇgpontlekÇpezã
+   SMS-Ågynîk gazdaszolg†ltat†sa
+   syslog-ng Agent
+   SzoftvervÇdelem
+   TCP/IP NetBIOS t†mogat¢
+   Teljes°tmÇnynapl¢k Çs riaszt†sok
+   T†voli asztal be†ll°t†sa
+   T†voli asztali szolg†ltat†sok
+   T†voli asztali szolg†ltat†sok felhaszn†l¢i Åzemm¢d£ port†tir†ny°t¢ja
+   T†voli elj†r†sh°v†s (RPC)
+   TÇm†k
+   WebClient
+   Windows bet˚t°pus-gyors°t¢t†r szolg†ltat†s
+   Windows Csatlakoz†skezelã
+   Windows EsemÇnynapl¢
+   Windows illesztãprogram-alaprendszer - felhaszn†l¢i m¢d£ illesztãprogram-keretrendszer
+   Windows Management Instrumentation
+   Windows Time
+   Windows t˚zfal
+   Windows Update
+   Windows µruh†z szolg†ltat†s (WSService)
+   WinHTTP automatikus webproxy-keresã szolg†ltat†s
+
+A parancs sikeresen vÇgrehajtva.
+
